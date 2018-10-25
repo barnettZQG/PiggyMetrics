@@ -29,7 +29,7 @@ default maven-settings.xml adapt rainbond
 
 ```
 
-### 2.2 Build image
+### 2.2 Build image . 
 
 ```bash
 docker build -t registry .
